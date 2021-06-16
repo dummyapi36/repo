@@ -3,10 +3,10 @@
     "id":"number",
     "title": "string",
     "price": "int",
-    "currency":"AED",
+    "currency":"string",
     "published": "boolean",
-    "img":"url",
-    "description":"string",
+    "img":"string",
+    "description":"Post",
     "short_description":"string",
     "createdAt": "date",
     "updatedAt": "date"
