@@ -3,7 +3,7 @@
     "id":"number",
     "title": "string",
     "price": "int",
-    "currency":"string",
+    "currency":"AED",
     "published": "boolean",
     "img":"url",
     "description":"string",
