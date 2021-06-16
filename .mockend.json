@@ -1,8 +1,12 @@
 {
   "Post": {
     "title": "string",
-    "views": "int",
-    "published": "boolean",
+    "price": "int",
+    "salePrice":"int",
+    "active": "boolean",
+    "img":"url",
+    "description":"string",
+    "short_description":"string",
     "createdAt": "date"
   }
 }
