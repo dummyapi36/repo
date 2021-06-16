@@ -1,12 +1,14 @@
 {
-  "Post": {
+  "Product": {
+    "id":"number",
     "title": "string",
     "price": "int",
-    "salePrice":"int",
-    "active": "boolean",
+    "currency":"string",
+    "published": "boolean",
     "img":"url",
     "description":"string",
     "short_description":"string",
-    "createdAt": "date"
+    "createdAt": "date",
+    "updatedAt": "date"
   }
 }
